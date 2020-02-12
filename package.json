@@ -1,0 +1,11 @@
+{
+  "name": "Express-server-27.2-to-send",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:WiesiaBryzik/Express-server-27.2-to-send.git",
+  "author": "Wiesława Bryzik <wieslawa.bryzik@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
